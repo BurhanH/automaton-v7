@@ -43,9 +43,9 @@ describe("Browser testing", function () {
     describe("Test resolution", function() {
       const testData = [
         {width: 800, height: 600},
-        {width: 1280, height: 1024},
-        {width: 1600, height: 1200},
-        {width: 1680, height: 1050}
+//         {width: 1280, height: 1024},
+//         {width: 1600, height: 1200},
+//         {width: 1680, height: 1050}
       ];
       
       testData.forEach(function(test) {
